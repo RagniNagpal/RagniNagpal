@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I'm Ragni Nagpal  
 
-<!--
-**RagniNagpal/RagniNagpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | 💻 Aspiring Full-Stack Developer  
 
-Here are some ideas to get you started:
+🌟 About Me  
+- 🚀 Passionate about Backend Development & MERN Stack 
+- 🌱 Currently exploring DSA, Java, Node.js, MongoDB & System Design
+- 💡 Love solving problems & building real-world impactful projects
+- 🤝 Open to collaborations, internships, and hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: I believe consistency beats talent every time! 
+
+⭐️ Code. Debug. Build. Repeat.
+
+
+<!-- First row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RagniNagpal&show_icons=true&theme=radical" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- adds horizontal space -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RagniNagpal&theme=radical" width="45%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<!-- Second row -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagniNagpal&layout=compact&theme=radical" width="45%" />
+
+</p>
+
+
+
