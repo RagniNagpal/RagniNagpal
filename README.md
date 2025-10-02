@@ -8,9 +8,9 @@
 - 💡 Love solving problems & building real-world impactful projects
 - 🤝 Open to collaborations, internships, and hackathons
 
-⚡ Fun fact: I believe consistency beats talent every time! 
+⚡Fun fact: I believe consistency beats talent every time! 
 
-⭐️ Code. Debug. Build. Repeat...
+⭐️Code. Debug. Build. Repeat...
 
 
 <!-- First row -->
