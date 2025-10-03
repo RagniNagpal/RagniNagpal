@@ -2,16 +2,14 @@
 
 🎓 B.Tech CSE | 💻 Aspiring Full-Stack Developer  
 
-🌟 About Me  
-- 🚀 Passionate about Backend Development & MERN Stack 
-- 🌱 Currently exploring DSA, Java, Node.js, MongoDB & System Design
-- 💡 Love solving problems & building real-world impactful projects
-- 🤝 Open to collaborations, internships, and hackathons
+🌟 About Me
 
+🚀 Passionate about Backend Development & MERN + Spring Boot
+🌱 Currently exploring DSA, Java, Node.js, MongoDB, Spring/Spring Boot & System Design
+💡 Love solving problems & building real-world impactful projects
+🤝 Open to collaborations, internships, and hackathons
 ⚡Fun fact: I believe consistency beats talent every time! 
-
 ⭐️Code. Debug. Build. Repeat...
-
 
 <!-- First row -->
 <p align="center">
