@@ -1,4 +1,4 @@
-Hi there 👋 I'm Ragni Nagpal
+Hi there 👋 I'm Ragni Nagpal....
 🎓 B.Tech in CSE | 💻 Aspiring Full-Stack Developer
 
 🌟 About Me
