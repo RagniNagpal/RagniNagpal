@@ -8,7 +8,7 @@ Hi there 👋 I'm Ragni Nagpal....
 💡 I love solving problems and building real-world, impactful projects
 🤝 Open to collaborations, internships, and hackathons
 ⚡ Fun fact: Consistency beats talent every time!
-⭐ Motto: Code. Debug. Build. Repeat.
+⭐ Motto: Code. Debug. Build. Repeat. ..
 
 <!-- First row -->
 <p align="center">
