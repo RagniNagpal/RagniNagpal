@@ -4,7 +4,7 @@ Hi there 👋 I'm Ragni Nagpal....
 🌟 About Me
 
 🚀 Passionate about Backend Development & the MERN stack + Spring Boot
-🌱 Currently diving deep into DSA, Java, Node.js, MongoDB, Spring/Spring Boot, and System Design
+🌱 Currently diving deep into DSA, Java, Node.js, MongoDB, Spring/Spring Boot, and System Design.
 💡 I love solving problems and building real-world, impactful projects
 🤝 Open to collaborations, internships, and hackathons
 ⚡ Fun fact: Consistency beats talent every time!
