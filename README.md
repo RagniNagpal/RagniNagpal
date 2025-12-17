@@ -23,5 +23,4 @@ Hi there 👋 I'm Ragni Nagpal....
 
 </p>
 
-Let The Journey Begin
 
