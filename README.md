@@ -1,5 +1,5 @@
 Hi there 👋 I'm Ragni Nagpal....
-🎓 B.Tech in CSE | 💻 Aspiring Full-Stack Developer....
+🎓 B.Tech in CSE | 💻 Aspiring Full-Stack Developer
 
 🌟 About Me!!!!!!!
 
